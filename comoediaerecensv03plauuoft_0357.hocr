@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./comoediaerecensv03plauuoft_0357.png"; bbox 0 0 1946 3344; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 611 1315 1272 1369">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 611 1315 1272 1369">
+     <span class='ocr_line' id='line_1_1' title="bbox 611 1315 1272 1369; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 611 1315 1272 1369; x_wconf 76' lang='lat' dir='ltr'><strong>TMAOOI-PLAVTI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 544 1481 1370 1570">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 544 1481 1370 1570">
+     <span class='ocr_line' id='line_1_2' title="bbox 544 1481 1370 1570; baseline 0.001 -3"><span class='ocrx_word' id='word_1_2' title='bbox 544 1481 1370 1570; x_wconf 63' lang='lat' dir='ltr'>RVDENS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 651 1677 1223 1728">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 651 1677 1223 1728">
+     <span class='ocr_line' id='line_1_3' title="bbox 651 1677 1223 1728; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 651 1677 906 1728; x_wconf 69' lang='lat' dir='ltr'><strong>GRAECA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 928 1709 934 1716; x_wconf 92' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 958 1681 1223 1728; x_wconf 87' lang='lat' dir='ltr'>DIPHILV</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 242 2999 516 3027">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 242 2999 516 3027">
+     <span class='ocr_line' id='line_1_4' title="bbox 242 2999 516 3027; baseline 0.007 -2"><span class='ocrx_word' id='word_1_6' title='bbox 242 2999 366 3025; x_wconf 70' lang='lat' dir='ltr'>PLAvn</span> <span class='ocrx_word' id='word_1_7' title='bbox 386 3000 516 3027; x_wconf 63' lang='lat' dir='ltr'>Rvnmts</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
